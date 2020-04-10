@@ -1,20 +1,20 @@
-# Author
-FreeMenDontAskPermission (FreeMenDontAsk)
-"F17" Edits done by d33pthought
-"VG17" Edits done by nguyenkvvn
+## Author
+* FreeMenDontAskPermission (FreeMenDontAsk)
+* "F17" Edits done by d33pthought
+* "VG17" Edits done by nguyenkvvn
 
-# Testing & Technical Author
+## Testing & Technical Author
 Ivanthetroll (@IvanTheTroll12)
 
-# Version
+## Version
 Derived from F17 Version 1.1
 Release Candidate 1
 
 #### Description
 
-**VG17 Update Notes: Building up on FMDA's vision of a base Glock platform being used to make bespoke/custom deriatives, the edits made to d33pthought's update attempt to match the ergonomics found in a Polymer80 frame. Namely speaking, features such as the frame-recessed mag release "extension", picatinny rails vs Glock rails, and the more steeper grip angle that's flatter, compared to the Glock's "curved backstrap". Kept below is the original README from d33pthought's package, and his F17 Update.md document is kept here as well. (Do note, that his documentation is still included in this package, but some files referenced specific to his revision will only be found in his package.)**
+**VG17 Update Notes:** Building up on FMDA's vision of a base Glock platform being used to make bespoke/custom deriatives, the edits made to d33pthought's update attempt to match the ergonomics found in a Polymer80 frame. Namely speaking, features such as the frame-recessed mag release "extension", picatinny rails vs Glock rails, and the more steeper grip angle that's flatter, compared to the Glock's "curved backstrap". Kept below is the original README from d33pthought's package, and his F17 Update.md document is kept here as well. (Do note, that his documentation is still included in this package, but some files referenced specific to his revision will only be found in his package.)
 
-**F17 Update Notes: The F17 update fixes a few issues with the original FMDA G17 model - the mag catch spring fitment, slide latch spring fitment, etc.  For a full list of changs, check the F17 Update.md document.**
+**F17 Update Notes:** The F17 update fixes a few issues with the original FMDA G17 model - the mag catch spring fitment, slide latch spring fitment, etc.  For a full list of changs, check the F17 Update.md document.
  
 This is the result of several months of experimentation in order to have a base Glock platform that the gun community can design around. This had been done before in .22lr and then I was contacted by FreeMenDontAsk via Twitter where he told me he had a method for making 9mm Glock pistols that worked well. Much of his original work was lost in a computer crash so we recreated his work. 
 
